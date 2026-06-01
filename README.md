@@ -6,6 +6,12 @@
 
 A white-label API gateway that wraps OpenRouter/OpenAI/Anthropic APIs. You buy credits at wholesale, we handle the infrastructure, you sell at retail.
 
+## 🌟 Featured In
+
+This product is part of the **[ulnit Agent Store](https://ulnit.github.io/agent-store)** — 23 AI-powered products running 24/7 on a $35 Raspberry Pi.
+
+> 💡 **Power Pairing:** Use **[AI Video Factory](https://github.com/ulnit/ai-video-factory)** to create faceless YouTube/TikTok content at zero cost, then offer your viewers AI API access through this gateway for recurring revenue.
+
 ## Features
 
 - ✅ **OpenAI-compatible** — Drop-in replacement for any OpenAI SDK
